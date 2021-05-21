@@ -1,5 +1,5 @@
 # ndogouCoding
-Réalisation de 4 vues (juste les interfaces)
+Réalisation de 4 vues (juste les interfaces) en Dart avec Flutter
 1. Page d'accueil
 2. Connexion (email & password)
 3. Connexion (numéro de téléphone)
